@@ -1,0 +1,400 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 1",
+        "address": "The Star Vista, 1 Vista Exchange Green, S138617",
+        "numberOfChargers": "Number Of Chargers: 1",
+        "connectorType": "Connector Type: IEC Type 2 Plug",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.788519, 1.306800] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 2",
+        "address": "Shell Bukit Batok NP Station, 28 Bukit Batok East Ave 6, S659760",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $0.55/kWh",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7648930, 1.347590]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "CHARGER_ID": "Station ID: 10000000",
+        "address": "Shell Yishun Station, 1 Yishun Street 11, S768642",
+        "numberOfChargers": "Number Of Chargers: 2",
+        "connectorType": "Connector Types: IEC Type 2 Plug, CCS Combo Type 2",
+        "chargingFee": 3,
+        "chargingFees": "Charging Fee: $3.00/hour",
+        "maxIdleFee": "Max Idle Fee: $18.00",
+        "wattage": "Number Of Watts: 7.4kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833040, 1.430820]
+      }
+    }
+  ]
+ }
